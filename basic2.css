@@ -179,6 +179,14 @@ ul {
 	opacity: 70%;
 }
 
+.validators {
+	float: right;
+	opacity: 70%;
+	width: 70px;
+	height: 50px;
+	margin-top: 210px;
+}
+
 a {
 	color: #94863d; /* Lighter shade of gold-ish color, use for all links */
 }

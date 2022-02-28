@@ -122,7 +122,7 @@ body {
 }
 
 .citations, ul {
-	font-family: georgia, verdana serif;
+	font-family: georgia, verdana, serif;
 	opacity: 80%;
 	text-align: center;
 }

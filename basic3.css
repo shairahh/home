@@ -44,7 +44,7 @@ body {
 	text-decoration: none;
 	text-shadow: 1px 1px 2px #030303;
 	font-size: 17px;
-	font-family: verdana, georgia serif;
+	font-family: verdana, georgia, serif;
 }
 
 .navbar a:hover {
